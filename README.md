@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mssjones
 - 👀 I’m interested in a lot! Photographing, webdesign- and developing, JavaScript, PHP, new things..
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP and Python
 - 💞️ I’m looking to collaborate on webdesign and -developing.
 - 📫 How to reach me.. send me a message here
 
