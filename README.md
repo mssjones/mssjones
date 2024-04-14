@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mssjones
-- 👀 I’m interested in a lot! Photographing, webdesign- and developing, JavaScript, PHP, Python, new things..
+- 👀 I’m interested in a lot! Photographing, design and developing, data engineering, robotica, new things..
 - 🌱 I’m currently learning robotica and about teaching coding for children
-- 💞️ I’m looking to collaborate on webdesign and developing.
+- 💞️ I’m looking to collaborate on webdesign, developing and teaching
 - 📫 How to reach me.. send me a message here
 
 <!---
